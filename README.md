@@ -13,12 +13,11 @@
 ## `> whoami`
 
 ```bash
-$ cat kirill.txt
-nombre   : Kirill
+$ cat kiril.txt
+nombre   : Kiril
 rol      : Desarrollador en formación
 lenguaje : Java (el favorito)
 sistema  : Ubuntu / Linux (y también Windows)
-estilo   : Cyberpunk // neón // código
 estado   : [ONLINE]
 ```
 
@@ -53,19 +52,6 @@ estado   : [ONLINE]
 | 📄 **XML** | Datos y configuración | `███████░░░` |
 | 🐧 **Linux / Ubuntu** | Terminal y sistema | `███████░░░` |
 | 🪟 **Windows** | Uso y administración básica | `████████░░` |
-
----
-
-## `> stats --live`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USUARIO_DE_KIRILL&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00A0&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO_DE_KIRILL&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=FFFFFF" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USUARIO_DE_KIRILL&theme=radical&hide_border=true&background=0D0221&ring=FF00A0&fire=FCEE0A&currStreakLabel=00F0FF" />
-
-</div>
 
 ---
 
