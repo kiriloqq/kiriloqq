@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A0,100:00F0FF&height=200&section=header&text=KIRILL&fontSize=70&fontColor=0D0221&fontAlignY=38&desc=//%20NETRUNNER%20%7C%20JAVA%20DEV%20%7C%20LINUX%20USER&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A0,100:00F0FF&height=200&section=header&text=KIRIL&fontSize=70&fontColor=0D0221&fontAlignY=38&desc=//%20NETRUNNER%20%7C%20JAVA%20DEV%20%7C%20LINUX%20USER&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://github.com/USUARIO_DE_KIRILL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&background=0D022100&center=true&vCenter=true&width=600&lines=%3E+Hola%2C+soy+Kirill;%3E+Programo+en+Java+%E2%98%95;%3E+Linux+%2B+Ubuntu+%3C3;%3E+Futuro+cyberpunk+cargando...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&background=0D022100&center=true&vCenter=true&width=600&lines=%3E+Hola%2C+soy+Kiril;%3E+Programo+en+Java+%E2%98%95;%3E+Linux+%2B+Ubuntu+%3C3;%3E+Futuro+cyberpunk+cargando...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D" alt="Typing SVG" />
 </a>
 
 </div>
