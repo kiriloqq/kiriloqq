@@ -58,12 +58,11 @@ estado   : [ONLINE]
 ## `> ls ~/proyectos`
 
 ```text
-drwxr-xr-x  proyecto-1/     # Descripción corta aquí
-drwxr-xr-x  proyecto-2/     # Descripción corta aquí
-drwxr-xr-x  proyecto-3/     # Descripción corta aquí
+drwxr-xr-x  proyecto-1/     # Proyectos de Java
+drwxr-xr-x  proyecto-2/     # Prueba
 ```
 
-> 📌 Cambia estos por tus repos reales y fíjalos en tu perfil.
+
 
 ---
 
@@ -71,7 +70,7 @@ drwxr-xr-x  proyecto-3/     # Descripción corta aquí
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-USUARIO__DE__KIRILL-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/USUARIO_DE_KIRILL)
+[![GitHub](https://img.shields.io/badge/GitHub-KIRILOQQ-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/USUARIO_DE_KIRILL)
 
 </div>
 
