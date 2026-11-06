@@ -9,7 +9,4 @@ Desarrollador de Paginas Web (DAW)
 ![](https://streak-stats.demolab.com/?user=kiriloqq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiriloqq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=kiriloqq&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
