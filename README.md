@@ -47,9 +47,6 @@ estado   : [ONLINE]
 | Módulo | Detalle | Nivel |
 |--------|---------|-------|
 | ☕ **Java** | Programación, lógica y POO | `████████░░` |
-| 🌐 **HTML** | Estructura web | `████████░░` |
-| 🎨 **CSS** | Estilos y diseño | `███████░░░` |
-| 📄 **XML** | Datos y configuración | `███████░░░` |
 | 🐧 **Linux / Ubuntu** | Terminal y sistema | `███████░░░` |
 | 🪟 **Windows** | Uso y administración básica | `████████░░` |
 
